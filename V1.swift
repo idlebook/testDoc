@@ -10,7 +10,8 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    var danmuBackView: PMDanmuBackView!
+  // x修复bug
+     // x修复bug // x修复bug // x修复bug // x修复bug
     
     
     // 开发一个新功能
@@ -33,6 +34,8 @@ class ViewController: UIViewController {
         
         
     }
+     // x修复bug // x修复bug // x修复bug
+     // x修复bug // x修复bug
 
     override func touchesBegan(_ touches: Set<UITouch>, with event: UIEvent?) {
         // 修复了一个bug
