@@ -18,6 +18,7 @@
 		995477FB1EAF3988008B1072 /* PMDanmuModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 995477FA1EAF3988008B1072 /* PMDanmuModel.swift */; };
 		995477FD1EAF39D6008B1072 /* PMDanmuBackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 995477FC1EAF39D6008B1072 /* PMDanmuBackView.swift */; };
 		99705ADD23EEABB80028BA2C /* dsdf.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99705ADC23EEABB80028BA2C /* dsdf.swift */; };
+		99705ADF23EEAC3A0028BA2C /* hhh.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99705ADE23EEAC390028BA2C /* hhh.swift */; };
 		99E2F9661EB081DC003756EC /* CALayer+Aimate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99E2F9651EB081DC003756EC /* CALayer+Aimate.swift */; };
 /* End PBXBuildFile section */
 
@@ -56,6 +57,7 @@
 		995477FA1EAF3988008B1072 /* PMDanmuModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PMDanmuModel.swift; sourceTree = "<group>"; };
 		995477FC1EAF39D6008B1072 /* PMDanmuBackView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PMDanmuBackView.swift; sourceTree = "<group>"; };
 		99705ADC23EEABB80028BA2C /* dsdf.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dsdf.swift; sourceTree = "<group>"; };
+		99705ADE23EEAC390028BA2C /* hhh.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hhh.swift; sourceTree = "<group>"; };
 		99E2F9651EB081DC003756EC /* CALayer+Aimate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "CALayer+Aimate.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -110,6 +112,7 @@
 				995477CA1EAF382C008B1072 /* AppDelegate.swift */,
 				995477CC1EAF382C008B1072 /* ViewController.swift */,
 				99705ADC23EEABB80028BA2C /* dsdf.swift */,
+				99705ADE23EEAC390028BA2C /* hhh.swift */,
 				995477CE1EAF382C008B1072 /* Main.storyboard */,
 				995477D11EAF382C008B1072 /* Assets.xcassets */,
 				995477D31EAF382C008B1072 /* LaunchScreen.storyboard */,
@@ -278,6 +281,7 @@
 				995477FB1EAF3988008B1072 /* PMDanmuModel.swift in Sources */,
 				995477F91EAF3902008B1072 /* PMDanmuModelProtocol.swift in Sources */,
 				995477CD1EAF382C008B1072 /* ViewController.swift in Sources */,
+				99705ADF23EEAC3A0028BA2C /* hhh.swift in Sources */,
 				995477CB1EAF382C008B1072 /* AppDelegate.swift in Sources */,
 				99E2F9661EB081DC003756EC /* CALayer+Aimate.swift in Sources */,
 				995477FD1EAF39D6008B1072 /* PMDanmuBackView.swift in Sources */,
