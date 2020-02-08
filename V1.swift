@@ -10,24 +10,11 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    var danmuBackView: PMDanmuBackView!
+  // x修复bug
+     // x修复bug // x修复bug // x修复bug // x修复bug
     
-
-    override func viewDidLoad() {
-        // 修复bug
-        super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
-        
-        // 添加弹幕View
-        danmuBackView = PMDanmuBackView(frame: CGRect(x: 100, y: 10, width: 200, height: 200))
-        danmuBackView.backgroundColor = UIColor.yellow
-        danmuBackView.clipsToBounds = true
-        
-        danmuBackView.delegate = self
-        view.addSubview(danmuBackView)
-        
-        
-    }
+     // x修复bug // x修复bug // x修复bug
+     // x修复bug // x修复bug
 
     override func touchesBegan(_ touches: Set<UITouch>, with event: UIEvent?) {
         // 修复了一个bug
