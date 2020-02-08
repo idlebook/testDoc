@@ -11,27 +11,11 @@ import UIKit
 class ViewController: UIViewController {
     
     var danmuBackView: PMDanmuBackView!
+    // 开发新功能
+    // 开发新功能// 开发新功能// 开发新功能
     
-    
-    // 开发一个新功能
-    // 开发2个新功能
-    
-    
+    // 开发新功能// 开发新功能// 开发新功能
 
-    override func viewDidLoad() {
-        super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
-        
-        // 添加弹幕View
-        danmuBackView = PMDanmuBackView(frame: CGRect(x: 100, y: 10, width: 200, height: 200))
-        danmuBackView.backgroundColor = UIColor.yellow
-        danmuBackView.clipsToBounds = true
-        
-        danmuBackView.delegate = self
-        view.addSubview(danmuBackView)
-        
-        
-    }
 
     override func touchesBegan(_ touches: Set<UITouch>, with event: UIEvent?) {
         
