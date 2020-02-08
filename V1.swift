@@ -12,12 +12,11 @@ class ViewController: UIViewController {
     
   // x修复bug
      // x修复bug // x修复bug // x修复bug // x修复bug
+    var danmuBackView: PMDanmuBackView!
+    // 开发新功能
+    // 开发新功能// 开发新功能// 开发新功能
     
-    
-    // 开发一个新功能
-    // 开发2个新功能
-    
-    
+    // 开发新功能// 开发新功能// 开发新功能
 
     override func viewDidLoad() {
         // 修复bug
@@ -36,6 +35,7 @@ class ViewController: UIViewController {
     }
      // x修复bug // x修复bug // x修复bug
      // x修复bug // x修复bug
+
 
     override func touchesBegan(_ touches: Set<UITouch>, with event: UIEvent?) {
         // 修复了一个bug
