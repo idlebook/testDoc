@@ -29,7 +29,7 @@ class ViewController: UIViewController {
     }
 
     override func touchesBegan(_ touches: Set<UITouch>, with event: UIEvent?) {
-        
+        // 修复了一个bug
         let model1 = PMDanmuModel()
         model1.beginTime = 2
         model1.liveTime = 2
